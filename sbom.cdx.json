@@ -1,0 +1,38 @@
+{
+  "bomFormat": "CycloneDX",
+  "specVersion": "1.5",
+  "serialNumber": "urn:uuid:6af31341-3adb-5e4e-adc4-05280e714c8b",
+  "version": 1,
+  "metadata": {
+    "timestamp": "2026-10-05T16:30:09Z",
+    "component": {
+      "type": "application",
+      "name": "CSM_OPEN_SOURCE_REACTOR_MODEL_LIBRARY",
+      "version": "ad26ab4a038f",
+      "bom-ref": "pkg:generic/anticloud/CSM_OPEN_SOURCE_REACTOR_MODEL_LIBRARY@ad26ab4a038f",
+      "purl": "pkg:generic/anticloud/CSM_OPEN_SOURCE_REACTOR_MODEL_LIBRARY@ad26ab4a038f",
+      "licenses": [
+        {
+          "license": {
+            "id": "MIT"
+          }
+        }
+      ]
+    },
+    "properties": [
+      {
+        "name": "anticloud:source-commit",
+        "value": "ad26ab4a038f347e7b622e8e7ae084975e8be6e9"
+      },
+      {
+        "name": "anticloud:source-url",
+        "value": "https://github.com/khurrumsaleem/CSM-Open-source-Reactor-Model-Library"
+      },
+      {
+        "name": "anticloud:tier",
+        "value": "tier-agent"
+      }
+    ]
+  },
+  "components": []
+}
