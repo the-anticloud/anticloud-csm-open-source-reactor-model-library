@@ -1,0 +1,16 @@
+{
+ "framework": "26_TRL_ML",
+ "title": "ML TRL (TRL-ML scale 1-9)",
+ "project": "CSM_OPEN_SOURCE_REACTOR_MODEL_LIBRARY",
+ "basis": [
+  {
+   "check": "16_ml_trl",
+   "status": "PASS",
+   "observed": "trl=8 satisfied=8/8 missing=[]"
+  }
+ ],
+ "verdict": "CONTROLS EVIDENCED \u2014 all basis checks PASS",
+ "pax_provenance": "Run ID loiskleinner/pax-benchmark-runner v3, 2026-10-02, Kaggle T4 x2 (2x 16GB VRAM), Ubuntu 22.04, Python 3.12. These are PAX L5 Narrow L2 General 27B model-level results \u2014 shared model component, not this project's verdict.",
+ "bench_sha3": "a76156451cdb8806559414e42abb68bd9f343d5444ef39fe574a1bfc84a23204",
+ "register_sha3": "e2e7dd11b7001dd443b7eb190aa809301a781557afcc60fe64175cd64b9b95c4"
+}
